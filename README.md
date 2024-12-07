@@ -99,6 +99,7 @@ git commit -m "Automated user management script and input file"
 git push origin main
 
 Notes
+
 Input File Format: Ensure all user details follow the colon-delimited structure in create-users.input.
 Use # to comment out lines for skipping users.
 Script Execution: Use chmod +x to make the Python script executable.
